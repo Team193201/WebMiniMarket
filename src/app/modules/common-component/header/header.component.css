@@ -1,0 +1,3 @@
+.subMenu>li:hover>.hoverMenu {
+    display: block !important;
+}
